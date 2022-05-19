@@ -1,0 +1,41 @@
+.decimal{
+    background-color: #1c1c1c;
+    height: 50px;
+    width: 50px;
+}
+
+.transpa{
+    background-color: #00ff0080;
+    height: 50px;
+    width: 50px;
+}
+.rgb{
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    width: 50px;
+}
+.rgba{
+    background-color: rgba(255, 0, 0.2);
+    height: 50px;
+    width: 50px;
+}
+.hsl{
+    background-color: hsl(10,50%,60%);
+    height: 50px;
+    width: 50px;
+}
+.hsla{
+    background-color: hsla(0,100%,40%,0.3);
+    height: 50px;
+    width: 50px;
+}
+.browsers{
+    background-color:blue;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
